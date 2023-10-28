@@ -18,7 +18,7 @@ export function ChooseYourCards() {
                     <h2 className="text-5xl font-semibold">Aprovecha las
                         <span className="block degradedBlue bg-blueLight">Últimas unidades.</span>
                         Desliza las prendas más
-                             <b>"trendy".</b>
+                             <b>trendy.</b>
                     </h2>
                 </Reveal>
                 <div className="px-5">

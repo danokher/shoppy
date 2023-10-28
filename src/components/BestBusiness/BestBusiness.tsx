@@ -20,7 +20,7 @@ export function BestBusiness() {
                         </h2>
                     </Reveal>
                     <Reveal>
-                        <p className="max-w-md mt-10">Puedes ganarte un <b>"dinerillo"</b> extra vendiendo en nuestra plataforma, obten recompensas y
+                        <p className="max-w-md mt-10">Puedes ganarte un <b>dinerillo</b> extra vendiendo en nuestra plataforma, obten recompensas y
                             ahorra dinero en tus propias compras. <br></br><br></br>
                             Si llegas a más de 20 ventas a la semana, te ofrecemos un <b>plan vip</b>.</p>
                     </Reveal>
